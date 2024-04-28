@@ -1,2 +1,2 @@
-# shingarbrecht.github.io
-https://xin-001.github.io/shingarbrecht.github.io/
+Shin Garbrecht's Portfolio Website
+View live at: https://shingarbrecht.github.io/
